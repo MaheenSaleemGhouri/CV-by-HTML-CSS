@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+.resume-container {
+    width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid#ddd;
+    box-shadow: 00 10px rgba(0,0,0,0,1);
+    background-color: rgb(152, 94, 18);
+}
+
+.header {
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.summary {
+    margin-bottom: 20px;
+}
+
+.education, .experience, .skills, .acheivement {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
